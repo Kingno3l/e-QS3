@@ -1,0 +1,9 @@
+c:\users\sim\documents\visual studio 2012\Projects\e-QS3 Software 2.0\e-QS3 Software 2.0\bin\Debug\e-QS3 Software 2.0.exe.config
+C:\Users\SIM\documents\visual studio 2012\Projects\e-QS3 Software 2.0\e-QS3 Software 2.0\bin\Debug\e-QS3 Software 2.0.exe
+C:\Users\SIM\documents\visual studio 2012\Projects\e-QS3 Software 2.0\e-QS3 Software 2.0\bin\Debug\e-QS3 Software 2.0.pdb
+C:\Users\SIM\documents\visual studio 2012\Projects\e-QS3 Software 2.0\e-QS3 Software 2.0\obj\Debug\e-QS3 Software 2.0.csprojResolveAssemblyReference.cache
+C:\Users\SIM\documents\visual studio 2012\Projects\e-QS3 Software 2.0\e-QS3 Software 2.0\obj\Debug\e_QS3_Software_2._0.Form1.resources
+C:\Users\SIM\documents\visual studio 2012\Projects\e-QS3 Software 2.0\e-QS3 Software 2.0\obj\Debug\e_QS3_Software_2._0.Properties.Resources.resources
+C:\Users\SIM\documents\visual studio 2012\Projects\e-QS3 Software 2.0\e-QS3 Software 2.0\obj\Debug\e-QS3 Software 2.0.csproj.GenerateResource.Cache
+C:\Users\SIM\documents\visual studio 2012\Projects\e-QS3 Software 2.0\e-QS3 Software 2.0\obj\Debug\e-QS3 Software 2.0.exe
+C:\Users\SIM\documents\visual studio 2012\Projects\e-QS3 Software 2.0\e-QS3 Software 2.0\obj\Debug\e-QS3 Software 2.0.pdb
